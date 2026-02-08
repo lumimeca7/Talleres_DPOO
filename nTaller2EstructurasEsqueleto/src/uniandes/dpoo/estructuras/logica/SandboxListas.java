@@ -20,7 +20,7 @@ public class SandboxListas
     /**
      * Una lista de enteros para realizar varias de las siguientes operaciones.
      */
-    private List<Integer> listaEnteros;
+    private List<Integer> listaEnteros ;
 
     /**
      * Una lista de cadenas para realizar varias de las siguientes operaciones

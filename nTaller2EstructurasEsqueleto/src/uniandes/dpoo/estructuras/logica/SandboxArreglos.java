@@ -72,7 +72,7 @@ public class SandboxArreglos
      */
     public int getCantidadEnteros( )
     {
-        return arregloEnteros.length;
+        return arregloEnteros.length ;
     }
 
     /**

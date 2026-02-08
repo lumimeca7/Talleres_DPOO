@@ -25,7 +25,7 @@ public class SandboxConjuntos
      * 
      * Por defecto, los elementos del conjunto están ordenados lexicográficamente.
      */
-    private NavigableSet<String> arbolCadenas;
+    private NavigableSet<String> arbolCadenas ;
 
     /**
      * Crea una nueva instancia de la clase con las dos listas inicializadas pero vacías
